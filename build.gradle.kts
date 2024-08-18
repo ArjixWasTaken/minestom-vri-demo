@@ -6,8 +6,6 @@ group = "org.arjix"
 version = "1.0-SNAPSHOT"
 
 dependencies {
-    implementation("org.slf4j:slf4j-simple:2.0.16")
-
     implementation("com.github.Minestom:minestom:77df1bdfd29d5a898eb75aa4fdd91b648dd75751")
     implementation("com.github.Minestom:VanillaReimplementation:bb4e93c83c")
     implementation("net.bladehunt:kotstom:0.3.0")
